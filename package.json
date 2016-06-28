@@ -1,0 +1,24 @@
+{
+  "name": "swiftype-search-jquery",
+  "version": "1.0.0",
+  "description": "Swiftype jQuery search plugin",
+  "main": "jquery.swiftype.search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeo/swiftype-search-jquery.git"
+  },
+  "keywords": [
+    "pixeo",
+    "swiftype",
+    "jquery"
+  ],
+  "author": "@pixeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixeo/swiftype-search-jquery/issues"
+  },
+  "homepage": "https://github.com/pixeo/swiftype-search-jquery#readme"
+}
